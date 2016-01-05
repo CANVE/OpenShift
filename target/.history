@@ -1,0 +1,281 @@
+exit
+init
+exi
+exit
+compile
+exit
+reload
+compile
+exit
+update
+reload
+exit
+eclipseWithSource
+eclipse with-source=true
+exit
+git status
+exit
+compile
+clean
+compile
+clean
+update
+compile
+exit
+reload
+compile
+reload
+compile
+;reload ;compile
+compile
+reload
+compile
+reload
+compile
+eclipse
+reload
+compile
+;reload ;compile
+exit
+~compile
+eclipse with-sources
+eclipse with-sources=true
+eclipse with-source=true
+reload
+update
+compile
+run
+reload
+run
+eclipse with-sources=true
+eclipse with-source=true
+compile
+run
+reload
+compile
+eclipse with-source=true
+reload
+run
+eclipse with-source=true
+reload
+run
+eclipse with-source=true
+sbt eclipse
+eclipse
+;reload ;eclipse
+compile
+eclipse
+;reload ;compile ;eclipse
+;reload ;clean ;compile ;eclipse
+compile
+exit
+slickGen
+exit
+slickGen
+;reload
+slickGen
+exit
+reload
+slickGen
+run
+reload
+slickGen
+exit
+slickGen
+reload
+slickGen
+reload
+slickGen
+reload
+getSlick
+slickGen
+compile
+run
+slickGen
+run
+compile
+slickGen
+reload
+slickGen
+run
+compile
+run
+exit
+clean
+compile
+run
+slickGen
+compile
+slickGen
+run
+compile
+run
+clean
+run
+slickGen
+run
+compile
+clean
+compile
+run
+subl README.txt
+reload
+clean
+slickGen
+run
+reload
+slickGen
+compile
+reload
+slickGen
+reload
+slickGen
+run
+eclipse with-source=true
+reload
+run
+~run
+run
+compile
+projects
+exit
+project
+projects
+project pipeline
+compile
+;reload ;compile
+clean
+compile
+reload
+compile
+exit
+compile
+exit
+projects
+compile
+console
+exit
+clean
+compile
+projects
+clean
+compile
+project pipeline
+clean
+compile
+eclipse with-source=true
+reload
+compile
+projects
+exit
+projects
+exit
+clean
+compile
+eclipse with-source=true
+projects
+exit
+clean 
+compile
+exit
+plugins
+exit
+plugins
+reload
+exit
+eclipse with-source=true
+exit
+compile
+run
+githubCruncher/run
+~compile
+githubCruncher/run
+~compile
+run
+githubCruncher/run
+~compile
+~githubCruncher/run
+githubCruncher/run
+~compile
+githubCruncher/run
+~compile
+githubCruncher/run
+~githubCruncher/run
+githubCruncher/run
+~githubCruncher/run
+githubCruncher/run
+~compile
+githubCruncher/run
+~compile
+compile
+~compile
+reload
+eclipse
+reload
+eclipse
+eclipse with-source=true
+~compile
+reload
+eclipse with-source=true
+update
+~reload
+clean
+update
+eclipse with-source=true
+compile
+eclipse with-source=true
+compile
+eclipse with-source=true
+reload
+eclipse with-source=true
+update
+compile
+clean
+compile
+eclipse with-source=true
+exit
+plugins
+sbt
+\
+reload
+exit
+reload
+exit
+projects
+project githubCruncher
+reload
+projectgs
+projects
+exit
+clean
+compile
+about
+publishLocal
+exit
+packageBin
+package
+exit
+assembly
+clean
+compile
+clean
+compile
+exut
+exit
+plugins
+sbt plugins | grep git
+exit
+git
+plugins
+git
+sbtPlugin
+plugins
+exit
+compile
+exit
+projects
+githubCruncher/run
+exit
+compile
+run
+exit
