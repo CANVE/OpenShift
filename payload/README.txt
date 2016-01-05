@@ -1,0 +1,3 @@
+To re(create) the slick classes from an existing database schema, adjust all database connection details in `build.sbt`, then run `sbt slickGen`. This would typically be done after manipulating the database schema, to keep slick in sync.
+
+Note about going the opposite direction: to create the database schema, from the slick generated classes which are part of this repo, need to use the DDL part of slick api, not currently implemented yet for this project (but should be simple).
