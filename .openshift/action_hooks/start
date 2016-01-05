@@ -2,7 +2,7 @@
 # The logic to start up your application should be put in this
 # script. The application will work only if it binds to
 # $OPENSHIFT_DIY_IP:8080
-cd $OPENSHIFT_REPO_DIR
+cd $OPENSHIFT_REPO_DIR/payload
 SBT_PATH=$OPENSHIFT_DATA_DIR/sbt
 SBT_DIR=$OPENSHIFT_DATA_DIR/.sbt
 IVY_DIR=$OPENSHIFT_DATA_DIR/.ivy
