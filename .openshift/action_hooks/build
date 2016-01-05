@@ -1,7 +1,6 @@
 #!/bin/bash
 
 cd $OPENSHIFT_REPO_DIR/payload
-git init # part of working around https://github.com/allenai/sbt-plugins/issues/196, https://github.com/sbt/sbt-git/issues/97#issuecomment-168727760
 SBT_PATH=$OPENSHIFT_DATA_DIR/sbt
 SBT_DIR=$OPENSHIFT_DATA_DIR/.sbt
 IVY_DIR=$OPENSHIFT_DATA_DIR/.ivy
