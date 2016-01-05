@@ -1,9 +1,6 @@
-import com.scalapenos.sbt.prompt.SbtPrompt.autoImport._
-
 lazy val org = sys.props.getOrElse("org", "canve")
 
 lazy val commonSettings = Seq(
-  promptTheme := Scalapenos,
   organization := org
 )
 
@@ -19,7 +16,7 @@ lazy val GithubCruncherRoot = (project in file("."))
 
 lazy val githubCruncher = (project in file("github-cruncher"))
   .dependsOn(pipeline)
-  .disablePlugins(ScalariformPlugin, StylePlugin)
+  .disablePlugins(StylePlugin)
   .settings(commonSettings).settings(
     scalaVersion := "2.11.5",
     //publishArtifact := false,
