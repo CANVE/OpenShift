@@ -12,4 +12,3 @@ TBD (deploy like any other custom cartridge)
 ### To reuse this template for other projects:
 
 + As in this repo, your sbt project should be placed under `/payload`
-+ Your sbt build should produce a fat jar named `fat.jar`
